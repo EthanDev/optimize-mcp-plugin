@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "optimize-mcp": {
+      "type": "sse",
+      "url": "${OPTIMIZE_API_URL}/mcp/sse",
+      "headers": {
+        "Authorization": "Bearer ${OPTIMIZE_API_KEY}"
+      }
+    }
+  }
+}

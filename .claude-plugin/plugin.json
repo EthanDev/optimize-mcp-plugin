@@ -1,0 +1,12 @@
+{
+  "name": "optimize-mcp",
+  "description": "Institutional knowledge management for AI-assisted development. Search architectural rules, business policies, and historical decisions before writing code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Optimize MCP"
+  },
+  "license": "MIT",
+  "keywords": ["knowledge-management", "architecture", "mcp", "enterprise"],
+  "homepage": "https://optimizemcp.com",
+  "repository": "https://github.com/EthanDev/optimize-mcp-plugin"
+}
