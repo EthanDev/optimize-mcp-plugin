@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "optimize-mcp",
+  "version": "1.0.0",
+  "description": "Institutional knowledge management for AI-assisted development. Search architectural rules, business policies, and historical decisions before writing code.",
+  "owner": {
+    "name": "Optimize MCP",
+    "email": "support@optimizemcp.com"
+  },
+  "plugins": [
+    {
+      "name": "optimize",
+      "description": "Institutional knowledge management for AI-assisted development. Search architectural rules, business policies, and historical decisions before writing code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Optimize MCP"
+      },
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
